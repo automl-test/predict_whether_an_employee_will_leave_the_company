@@ -1,0 +1,53 @@
+{
+  "top_features": [
+    {
+      "feature": "Quarterly Rating",
+      "importance": 1.0343797074931087
+    },
+    {
+      "feature": "City",
+      "importance": 0.4606499594557849
+    },
+    {
+      "feature": "Joining Designation",
+      "importance": 0.3355173593625055
+    },
+    {
+      "feature": "Designation",
+      "importance": 0.31372996902666667
+    },
+    {
+      "feature": "TenureMonths",
+      "importance": 0.2417220681261083
+    },
+    {
+      "feature": "Age",
+      "importance": 0.07653076132382337
+    },
+    {
+      "feature": "Salary",
+      "importance": 0.042561197201471807
+    },
+    {
+      "feature": "Total Business Value",
+      "importance": 0.031385243210326944
+    },
+    {
+      "feature": "Emp_ID",
+      "importance": 0.02394423191797665
+    },
+    {
+      "feature": "Education_Level",
+      "importance": 0.01436074633492827
+    },
+    {
+      "feature": "Gender",
+      "importance": 0.008470644832214748
+    },
+    {
+      "feature": "Dateofjoining",
+      "importance": 0.0037531919546737107
+    }
+  ],
+  "computed_at": "2026-10-30T16:45:34.525337"
+}
